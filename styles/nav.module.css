@@ -55,14 +55,25 @@
 @media screen and (max-width:560px){
     .nav{
         display: block;
+        text-align: center;
     }
     .nav_contact{
         display: none;
     }
     .nav_ul{
+        z-index: 0;
+        display: inline-block;
         padding-right: 1%;
-        margin: 0% 9% 0% 10%;
+        margin: 0%;
         justify-content: space-between;
+    }
+    .nav_list{
+        z-index: 1;
+        display: inline-block;
+        padding: .3em 2em;
+    }
+    .nav_bar{
+        z-index: -1;
     }
     .nav_title{
         text-align: center;
@@ -72,6 +83,10 @@
 @media screen and (max-width:720px){
     .nav{
         padding: 0 2.5em;
+    }
+
+    .nav_ul{
+        width: 20em;
     }
 }
 
