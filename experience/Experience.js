@@ -2,6 +2,7 @@ import {Component} from 'react'
 import * as THREE from 'three'
 
 import { gltfLoader } from './gltfLoad'
+import styles from '../styles/main.module.css'
 
 export default class Experience extends Component{
   constructor(props){
@@ -124,7 +125,7 @@ export default class Experience extends Component{
     return(
       <div
         id='stage'
-        style={{padding:'0',height:'80vh'}}
+        style={{padding:'0',height:'40vh'}}
         ref={(mount)=>{this.mount = mount}}
       ></div>
     )
