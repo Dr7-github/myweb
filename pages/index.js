@@ -8,9 +8,9 @@ export default function Home() {
         <Experience />
       </div>
       <div className={styles.intro_wrapper}>
-        <h1 className={styles.intro_title}>I'm Zacky,</h1>
+        <h1 className={styles.intro_title}>I&aposm Zacky</h1>
         <h1 className={styles.intro_subtitle}>Crossover Explorer</h1>
-        <p className={styles.intro_page}>I have dedicated myself to exploring unknown boundaries and broadening my perception of myself and the world. I am passionate about ge'z design, but also have accumulated development work and a great interest in the crypto.</p>
+        <p className={styles.intro_page}>I have dedicated myself to exploring unknown boundaries and broadening my perception of myself and the world. I am passionate about design, but also have accumulated development work and a great interest in the crypto.</p>
       </div>
     </div>
     
