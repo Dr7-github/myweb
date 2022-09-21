@@ -110,7 +110,8 @@ export default class Experience extends Component{
 
   handleMouse = e =>{
     if(this.state){
-      this.larp.target = ((e.clientX-this.scW/2)*2)/this.scW
+      let targetX = e.clientX
+      this.larp.target = ((targetX-window.innerWidth/2)*2)/window.innerWidth
       let angle = this.larp.target*(Math.PI/8)
       this.actualRoom.rotation.y = angle
     }    
@@ -125,7 +126,7 @@ export default class Experience extends Component{
     return(
       <div
         id='stage'
-        style={{padding:'0',height:'40vh'}}
+        className={styles.canvas_wrapper}
         ref={(mount)=>{this.mount = mount}}
       ></div>
     )

@@ -12,11 +12,11 @@ export default function Nav(){
         var targetBar = event.currentTarget.textContent
         
         if (targetBar==='Main'){
-            currentBar.style.marginLeft = '0%'
+            currentBar.style.marginLeft = '0.5%'
         }else if (targetBar==='Work'){
             currentBar.style.marginLeft = '33%'
         }else {
-            currentBar.style.marginLeft = '65%'
+            currentBar.style.marginLeft = '66%'
         }        
     }
 

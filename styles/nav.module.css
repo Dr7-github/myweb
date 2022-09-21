@@ -12,10 +12,10 @@
 .nav_ul{
     display: flex; 
     position: relative;
-    height: 2.5em;
+    height: 3em;
     background-color: rgba(255, 255, 255,0.5);
-    padding: .2em;
-    border-radius: 1.3em;
+    padding: .1em;
+    border-radius: 1.8em;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .nav_list {
@@ -23,20 +23,21 @@
     display: flex;
     align-items: center;
     list-style: none;
-    font-size: 1em;
+    font-size: 1.3em;
     font-weight: bold;
     color: rgb(56, 56, 56);
-    padding: .1em 2em;
+    padding: .1em 3em;
     cursor: pointer;
 }
 .nav_bar{
     z-index: 1;
     width: 33%;
-    height: 2.1em;
-    border-radius: 1.1em;
+    height: 2.6em;
+    border-radius: 1.5em;
     list-style: none;
     position: absolute;
-    margin-left: 0%;
+    margin-left: 0.5%;
+    margin-top: .1em;
     background:radial-gradient(rgb(243, 89, 89),rgba(230, 63, 63, 0.8));
 }
 .nav_contact{
@@ -68,10 +69,11 @@
     .nav_list{
         z-index: 1;
         display: inline-block;
-        padding: .3em 2em;
+        padding: .3em 1.3em;
     }
     .nav_bar{
         z-index: -1;
+        margin-top: .15em;
     }
 }
 @media screen and (max-width:720px){
@@ -82,10 +84,19 @@
     .nav_ul{
         width: 20em;
     }
+    .nav_list{
+        padding: .3em 1.3em;
+    }
+    .nav_bar{
+        margin-top: .1em;
+    }
 }
 @media screen and (min-width:1080px){
     .nav{
         padding: 0 17%;
+    }
+    .nav_bar{
+        margin-top: .1em;
     }
   }
 
