@@ -120,7 +120,7 @@ CyberConnect是目前另一个重要的社交图谱协议的基础设施，其�
     连接CyberConnect的入口是Link3，一个用于展示你在CyberConnect生态内的经过验证的社交关系的主页，每一个主页也都是一个ERC-721的NFT。其将所有的链上的地址关联的NFT、DID甚至是传统社交媒体整合到一个统一的身份标识内。
     
 
-!https://docs.cyberconnect.me/assets/images/overview-bf78247bf9776ed4adf96b171e79b70c.png
+![Untitled](https://docs.cyberconnect.me/assets/images/overview-bf78247bf9776ed4adf96b171e79b70c.png)
 
 - 为了提升开发体验，CyberConnect提供了两个重要的组件：社交数据网络和兴趣图谱引擎。社交数据网络由身份、连接、内容模块组成，兴趣图谱引擎由社交指数和推荐平台模块组成；
 
@@ -150,14 +150,14 @@ CyberConnect是目前另一个重要的社交图谱协议的基础设施，其�
 
 # 参考
 
-1. [History of Social Media: Focusing on AOL Instant Messenger](https://kim-thremmays-ufl-education.medium.com/history-of-social-media-focusing-on-aol-instant-messenger-7271d68126aa)
-2. [The History of Social Networking: How It All Began!](https://1stwebdesigner.com/history-of-social-networking/)
-3. [The Origins and History of Social Media](https://www.gwsmedia.com/articles/where-does-social-media-come)
-4. [The Geocities Archive Is Bringing the Early Internet to Life](https://www.vice.com/en/article/n7jzgm/the-geocities-archive-is-bringing-the-early-internet-to-life)
-5. [Saying goodbye to the proto-social network of AOL Instant Messenger](https://arstechnica.com/gaming/2017/10/remembering-aol-instant-messenger-my-first-social-network/)
-6. [Then and now: a history of social networking sites](https://www.cbsnews.com/pictures/then-and-now-a-history-of-social-networking-sites/7/)
-7. [Four reasons why Facebook is succeeding in social networking](https://www.cnet.com/culture/four-reasons-why-facebook-is-succeeding-in-social-networking/)
-8. [Lens Otherview](https://docs.lens.xyz/docs/overview)
-9. [What is Lens Protocol, and how does it work?](https://cointelegraph.com/news/what-is-lens-protocol-and-how-does-it-work)
-10. [What is SocialFi? A beginner’s guide to the social network of the future](https://cointelegraph.com/metaverse-for-beginners/what-is-socialfi-a-beginners-guide-to-the-social-network-of-the-future)
-11. [CyberConnect: Building the Social Graph Infrastructure for Web3](https://mirror.xyz/cyberlab.eth/j4u2JeUYaRJfHfWENGWqmBiKAJlMaZDoZbwN3_xXaUE)
+1. [_History of Social Media: Focusing on AOL Instant Messenger_](https://kim-thremmays-ufl-education.medium.com/history-of-social-media-focusing-on-aol-instant-messenger-7271d68126aa)
+2. [_The History of Social Networking: How It All Began!_](https://1stwebdesigner.com/history-of-social-networking/)
+3. [_The Origins and History of Social Media_](https://www.gwsmedia.com/articles/where-does-social-media-come)
+4. [_The Geocities Archive Is Bringing the Early Internet to Life_](https://www.vice.com/en/article/n7jzgm/the-geocities-archive-is-bringing-the-early-internet-to-life)
+5. [_Saying goodbye to the proto-social network of AOL Instant Messenger_](https://arstechnica.com/gaming/2017/10/remembering-aol-instant-messenger-my-first-social-network/)
+6. [_Then and now: a history of social networking sites_](https://www.cbsnews.com/pictures/then-and-now-a-history-of-social-networking-sites/7/)
+7. [_Four reasons why Facebook is succeeding in social networking_](https://www.cnet.com/culture/four-reasons-why-facebook-is-succeeding-in-social-networking/)
+8. [_Lens Otherview_](https://docs.lens.xyz/docs/overview)
+9. [_What is Lens Protocol, and how does it work?_](https://cointelegraph.com/news/what-is-lens-protocol-and-how-does-it-work)
+10. [_What is SocialFi? A beginner’s guide to the social network of the future_](https://cointelegraph.com/metaverse-for-beginners/what-is-socialfi-a-beginners-guide-to-the-social-network-of-the-future)
+11. [_CyberConnect: Building the Social Graph Infrastructure for Web3_](https://mirror.xyz/cyberlab.eth/j4u2JeUYaRJfHfWENGWqmBiKAJlMaZDoZbwN3_xXaUE)
