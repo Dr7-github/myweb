@@ -24,8 +24,13 @@ body{
 
 
 /* blog page */
+.blog-wrapper{
+  padding-bottom: 5em;
+}
 .blog-content{
   margin: 1% 5%;
+  letter-spacing: 2.5px;
+  line-height: 35px;
   padding: .5em 2.5em;
   background-color: white;
   border-radius: 1em;

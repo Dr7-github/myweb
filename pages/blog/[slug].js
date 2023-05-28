@@ -3,7 +3,7 @@ import Link from "next/link"
 
 export default function PostPage({postData}){
     return (
-        <div>            
+        <div className="blog-wrapper">            
             <div className="blog-content">
                 <div dangerouslySetInnerHTML={{__html:postData.contentHtml}}></div>
             </div>

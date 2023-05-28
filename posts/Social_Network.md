@@ -12,21 +12,13 @@ excerpt: 'From the past to the future'
     
     早在1970年代末，BBS的创建形成了最早的社交网络的雏形。BBS是建立在个人电脑上的站点，通过电话线路来进行站点之间的沟通。
     
-    In the end of 1970s, the creation of BBS formed the early prototype of social platform. But BBS is built on the personal site to communicate with other site. 
-    
 - AOL
     
-    在1990年代，AOL （**American Oline**）最早是作为游戏下载服务商，但很快转型做即时通信。1997年，AIM（**AOL Instant Message**）开发完成，这款软件具有划时代的意义，它初步形成了当今社交网络的基本范式，他最早的支持了个人主页的建立，能够介绍更多的个人信息。而在1998年，AOL还收购了一款以色列即时通讯软件**ICQ**，尽管这一功能并没有被很好地利用。而在遥远的大洋彼岸，深圳的马化腾仿照了这款软件做出了QICQ，日后则成为了中国最广泛使用的社交软件之一。
-    
-    In 1990s, American Oline as a game download service 
-    
-
-![aimprofile-300x386.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4959276-588f-4da6-811b-305482645f68/aimprofile-300x386.png)
+    在1990年代，**AOL** （American Oline）最早是作为游戏下载服务商，但很快转型做即时通信。1997年，**AIM**（AOL Instant Message）开发完成，这款软件具有划时代的意义，它初步形成了当今社交网络的基本范式，他最早的支持了个人主页的建立，能够介绍更多的个人信息。而在1998年，AOL还收购了一款以色列即时通讯软件**ICQ**，尽管这一功能并没有被很好地利用。而在遥远的大洋彼岸，深圳的马化腾仿照了这款软件做出了QICQ，日后则成为了中国最广泛使用的社交软件之一。
 
 - GeoCities
     
-    1994年，一个名为 **GeoCities** 的网站登场，它允许个人用户自行搭建个人网站，并且，用户能够选择自己的网站能够在哪一个分组下被检索到，世界上最早的在线社区平台就此诞生。尽管在2009年这个网站因经营状态而关停，但现在依然可以在 **[The Geocities Gallery](https://geocities.restorativland.org/)** 上检索到GeoCities上的收录检索页。 ****
-    
+    1994年，一个名为 **GeoCities** 的网站登场，它允许个人用户自行搭建个人网站，并且，用户能够选择自己的网站能够在哪一个分组下被检索到，世界上最早的在线社区平台就此诞生。尽管在2009年这个网站因经营状态而关停，但现在依然可以在 [**The Geocities Gallery**](https://geocities.restorativland.org/) 上检索到GeoCities上的收录检索页。
 
 ---
 
@@ -39,16 +31,10 @@ excerpt: 'From the past to the future'
 - **Frendster**
     
     2002年，Frendster上线，在前者的基础上，Frendster还添加了主页评论的功能，用户还能分享消息、图片和视频。但它很快便被其竞争对手MySpace击败。
-    
-
-![friendster-AP070927023229.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61f0a1bf-bd0d-46df-a732-a55adf360a5d/friendster-AP070927023229.jpg)
 
 - **MySpace**
     
     相应的模仿者应运而生，2003年，MySpace上线，它给予用户更多的自由度，允许添加音乐和音乐视频等更为年轻化的要素，甚至允许用户插入HTML来装饰他们的主页。因此，它很块收获了超过九千万用户，直到2007年，它仍然是用户量第一的社交网络平台，直到2008年，被Facebook取代。
-    
-
-![myspacescreen640x480.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ebc290a-a693-47af-8514-070c5b88306c/myspacescreen640x480.jpg)
 
 ## 时代王者
 
@@ -59,10 +45,7 @@ excerpt: 'From the past to the future'
     Facebook的成功归因于以下几个因素：
     
     1. 直观的交互体验，相较于同期的竞争对手，它的使用体验更为的友好，连贯的外观，用户能够更为直观的评论、添加好友，Facebook还创新的添加了喜欢（Like）功能；
-    2. 开放性，2007年，Facebook宣布开放平台API，允许更多的第三方开发者为Facebook开发应用；
-- Twitter
-    
-    
+    2. 开放性，2007年，Facebook宣布开放平台API，允许更多的第三方开发者为Facebook开发应用； 
 
 ## 移动时代
 
@@ -93,8 +76,6 @@ Social Graphy
 
 **Lens** 是知名的借贷协议 **AAVE** 创始人推出的建立在 **Polygon** 上的社交图谱协议。Lens 被设计为一个开放性和可组合性的社交协议，它允许创作者拥有他们所创造的数字内容的所有权并完全的保证他的社交关系的保留，使得用户完全地掌控他们的社交信息和连接关系。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d34714e1-95e6-40bd-b49a-57783cea0515/Untitled.png)
-
 而Lens的目标便是打破这种限制，让用户完全的拥有其对社交的掌握权力，包括其生产的内容和社交关系的连接，你能够轻易的在这些建立在Lens协议的平台之间迁移。
 
 ### 架构
@@ -118,9 +99,6 @@ CyberConnect是目前另一个重要的社交图谱协议的基础设施，其�
 - Link3
     
     连接CyberConnect的入口是Link3，一个用于展示你在CyberConnect生态内的经过验证的社交关系的主页，每一个主页也都是一个ERC-721的NFT。其将所有的链上的地址关联的NFT、DID甚至是传统社交媒体整合到一个统一的身份标识内。
-    
-
-![Untitled](https://docs.cyberconnect.me/assets/images/overview-bf78247bf9776ed4adf96b171e79b70c.png)
 
 - 为了提升开发体验，CyberConnect提供了两个重要的组件：社交数据网络和兴趣图谱引擎。社交数据网络由身份、连接、内容模块组成，兴趣图谱引擎由社交指数和推荐平台模块组成；
 
