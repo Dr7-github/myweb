@@ -7,7 +7,7 @@ export default function App({Component,pageProps}){
     return (
         <>
             <Head>
-                <title>head</title>
+                <title>{head}</title>
             </Head>
             <Nav />
             <main> 
