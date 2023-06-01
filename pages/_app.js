@@ -7,7 +7,7 @@ export default function App({Component,pageProps}){
     return (
         <>
             <Head>
-                <title>Zacky's Portfolio</title>
+                <title>head</title>
             </Head>
             <Nav />
             <main> 
@@ -18,3 +18,5 @@ export default function App({Component,pageProps}){
         </>
     )
 }
+
+const head = "Zacky's Portfolio"
