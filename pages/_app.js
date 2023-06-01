@@ -7,7 +7,7 @@ export default function App({Component,pageProps}){
     return (
         <>
             <Head>
-                <title>Next.js web</title>
+                <title>Zacky's Portfolio</title>
             </Head>
             <Nav />
             <main> 

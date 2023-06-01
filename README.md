@@ -7,6 +7,9 @@ I have dedicated myself to exploring unknown boundaries and broadening my percep
 - Web 3 / NFT/ Metaverse
 - Develop
 - UI
-I'm also good at these skills:
+I'm good at these skills:
 - __Program__: Python(Pandas, Tensorflow, Sklearn), Javascript, Julia
-- __Model__: Rhino, Blender, Voxedit(Sandbox), 
+- __AI__: GAN, CNN, UNet
+- __Protype Design__: Axure, Xmind, Visio, Drawio
+- __Doc__: Notion, Airtable, Yuque
+- __3D Design__: Rhino, Blender, Three.js
