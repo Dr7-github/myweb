@@ -71,4 +71,4 @@ excerpt: '该项目致力于简化土地利用规划中流程化的传统工作�
 ![MVP成果](https://raw.githubusercontent.com/Dr7-github/PixStore/main/MVP.png)
 
 # 相关链接
-*1. [Digital Future 数字未来建筑黑客马拉松TOP10作品出炉](https://mp.weixin.qq.com/s?src=11&timestamp=1690478916&ver=4676&signature=-VXaJ8wYmm-Q1KCqGzDzZjM2cLvmNVofpJsZab-8*6W6-b23xHqyacDvYxotSBGeJp50Qe9Y4USGtXNUtjjKAx8z8UN7XpRFwf*gpybf3kXqdTIEhcDLgEdxWYFEMYi6&new=1)*
+*1. [Digital Future 数字未来建筑黑客马拉松TOP10作品出炉](https://mp.weixin.qq.com/s?src=11&timestamp=1690899332&ver=4686&signature=24Bub6PANkNAH0nIk361kCEL1G6UiEkDA2epq6OS-YfbsDb0eotDcNI2OK*KVQJzEL6bxoduceKewGeC*Zsd1IBTpq0a5NL4U6r3E9rtyRYOpnEIebdNGgAHaCA4iTyJ&new=1)*
